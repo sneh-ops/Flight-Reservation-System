@@ -1,0 +1,3 @@
+Flight 101 | Delhi -> Mumbai | 25/04/2025 | Seats: 60
+Flight 202 | Chennai -> Bangalore | 26/04/2025 | Seats: 55
+Flight 303 | Mumbai -> Kolkata | 27/04/2025 | Seats: 50
